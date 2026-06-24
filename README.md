@@ -28,8 +28,6 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 ## 🎮 Supported Games
 
-> 🚧 _Placeholder — add each game as it releases. Link the download to its release._
-
 | Game | Status | 
 |------|:------:|
 | _Game Name_ | ✅ Released |
@@ -115,14 +113,6 @@ Each mod includes a **`HeadTracking.ini`** next to the game's `.exe`. Open it in
 
 > 🎮 **In-game hotkeys** (typical): toggle tracking on/off, and **recenter** to your current head position.
 > The exact keys are listed in each mod's own README.
-
----
-
-## 🎯 Tips
-
-- Always **recenter** while looking straight ahead for the best feel.
-- Start with **low sensitivity** and work up — a little head movement goes a long way.
-- If an axis feels reversed, flip the matching **invert** option in the INI.
 
 ---
 
