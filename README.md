@@ -30,29 +30,25 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 | Game | Status | 
 |------|:------:|
+| _Assassins Creed Origins_ | ✅ Released |
+| _Assassins Creed Unity_ | ✅ Released | 
+| _Assassins Creed Syndicate_ | ✅ Released | 
+| _Alan Wake 2_ | ✅ Released |
+| _Alan Wake Remastered_ | ✅ Released | 
+| _Batman Ark hamKnight_ | ✅ Released | 
+| _Crimson Desert_ | ✅ Released |
+| _DeusEx-Human Revolution_ | ✅ Released | 
+| _DeusEx-Mankind Divided_ | ✅ Released | 
+| _Dragon Age Inquisition_ | ✅ Released |
+| _Guardians Of The Galaxy_ | ✅ Released | 
+| _NieR Automata_ | ✅ Released | 
+| _NieR Replicant_ | ✅ Released |
+| _Ni no Kuni_ | ✅ Released | 
+| _Persona 4 Golden_ | ✅ Released | 
+| _Shadow Of The Tomb Raider_ | ✅ Released |
+| _The Witcher 3_ | ✅ Released | 
+| _Yakuza Like ADragon_ | ✅ Released | 
 | _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
 | _Game Name_ | ✅ Released | 
 
 
@@ -61,7 +57,6 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | Your Game | ✅ Released | [Download](../../releases) |
 Status key: ✅ Released · 🧪 Testing · 🔜 Planned -->
 
-**Status:** ✅ Released &nbsp;·&nbsp; 🧪 Testing &nbsp;·&nbsp; 🔜 Planned
 
 ---
 
