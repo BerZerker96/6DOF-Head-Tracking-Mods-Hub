@@ -126,22 +126,10 @@ Each mod includes a **`HeadTracking.ini`** next to the game's `.exe`. Open it in
 
 ---
 
-## ⚠️ Please read
-
-- **Single-player / offline only.** Do **not** use these on anti-cheat or multiplayer games — you can get banned.
-- Mods are provided **as-is** for personal, private use.
-
----
-
 ## 🙏 Credits
 
 - **[Loop](https://github.com/itsloopyo?tab=repositories)** — the head-tracking **framework** these mods are built on. 🔥
 - **[OpenTrack](https://github.com/opentrack/opentrack)** — the head-tracking app + the **UDP** method used to send head pose.
-- **[Osiris VR Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer/tree/main)** — VR viewer app with **built-in support** for these mods. 🥽
 - **Ultimate ASI Loader** — the **ASI loader** that loads the mods into the game.
 
 ---
-
-<p align="center">
-  <sub>Made with ❤️ for the head-tracking community · Enjoy, and fly safe ✈️</sub>
-</p>
