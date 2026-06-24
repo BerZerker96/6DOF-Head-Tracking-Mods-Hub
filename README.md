@@ -1,7 +1,6 @@
-<!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="docs/banner.png" alt="6DOF Head-Tracking Mods" width="100%">
-  <!-- 👆 replace docs/banner.png with your own banner image -->
+<img width="1584" height="672" alt="1782281895271" src="https://github.com/user-attachments/assets/1a3d8cb9-62bf-4924-acdb-6c22fe62624c" />
+
 </p>
 
 <h1 align="center">🎯 6DOF Head-Tracking Mods</h1>
@@ -31,11 +30,34 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 > 🚧 _Placeholder — add each game as it releases. Link the download to its release._
 
-| Game | Status | Download |
-|------|:------:|:--------:|
-| _Game Name_ | ✅ Released | [Download](../../releases) |
-| _Game Name_ | 🧪 Testing | — |
-| _Game Name_ | 🔜 Planned | — |
+| Game | Status | 
+|------|:------:|
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released |
+| _Game Name_ | ✅ Released | 
+| _Game Name_ | ✅ Released | 
+
+
 
 <!-- copy a row per game:
 | Your Game | ✅ Released | [Download](../../releases) |
