@@ -48,8 +48,6 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Shadow Of The Tomb Raider_ | ✅ Released |
 | _The Witcher 3_ | ✅ Released | 
 | _Yakuza Like ADragon_ | ✅ Released | 
-| _Game Name_ | ✅ Released |
-| _Game Name_ | ✅ Released | 
 
 
 
