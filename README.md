@@ -21,7 +21,7 @@
 ## ✨ What is this?
 
 A hub where I release my **6DOF head-tracking mods** — they let you lean, peek, and look around in-game
-using your real head movement. Each mod is built on the head-tracking **framework by [Loop](https://github.com/itsloopyo?tab=repositories)**,
+using your real head movement full ( X, Y , Z axis) positional tracking and full (Yaw , Pitch , Roll ) rotational tracking. Each mod is built on the head-tracking **framework by [Loop](https://github.com/itsloopyo?tab=repositories)**,
 and ships **ready to go**: the mod is already packed with an **ASI loader**, so there's nothing extra to install.
 
 ---
