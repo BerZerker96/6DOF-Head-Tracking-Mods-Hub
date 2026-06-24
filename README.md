@@ -35,7 +35,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Assassins Creed Syndicate_ | ✅ Released | 
 | _Alan Wake 2_ | ✅ Released |
 | _Alan Wake Remastered_ | ✅ Released | 
-| _Batman Ark hamKnight_ | ✅ Released | 
+| _Batman Arkham Knight_ | ✅ Released | 
 | _Crimson Desert_ | ✅ Released |
 | _DeusEx-Human Revolution_ | ✅ Released | 
 | _DeusEx-Mankind Divided_ | ✅ Released | 
@@ -47,8 +47,8 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Persona 4 Golden_ | ✅ Released | 
 | _Shadow Of The Tomb Raider_ | ✅ Released |
 | _The Witcher 3_ | ✅ Released | 
-| _Yakuza Like ADragon_ | ✅ Released | 
-
+| _Yakuza Like A Dragon_ | ✅ Released | 
+| _Batman Arkham City_ | ✅ Released | 
 
 
 <!-- copy a row per game:
