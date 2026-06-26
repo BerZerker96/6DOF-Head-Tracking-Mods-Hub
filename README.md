@@ -52,6 +52,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Batman Arkham Asylum_ | ✅ Released | 
 | _Persona 5 Royal_ | ✅ Released | 
 | _Metal Gear Rising_ | ✅ Released | 
+| _Control_ | ✅ Released | 
 
 
 <!-- copy a row per game:
