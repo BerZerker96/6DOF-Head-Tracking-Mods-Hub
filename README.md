@@ -48,7 +48,8 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Shadow Of The Tomb Raider_ | ✅ Released |
 | _The Witcher 3_ | ✅ Released | 
 | _Yakuza Like A Dragon_ | ✅ Released | 
-| _Batman Arkham City_ | ✅ Released | 
+| _Batman Arkham City_ | ✅ Released |
+| _Batman Arkham Asylum_ | ✅ Released | 
 | _Persona 5 Royal_ | ✅ Released | 
 
 <!-- copy a row per game:
