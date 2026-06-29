@@ -55,6 +55,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Control_ | ✅ Released | 
 | _Dragon Age Origins_ | ✅ Released | 
 | _Dragon Age 2_ | ✅ Released | 
+| _The Witcher 2_ | ✅ Released | 
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
