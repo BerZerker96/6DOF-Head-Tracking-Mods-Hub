@@ -59,7 +59,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Batman Arkham Origins_ | ✅ Released | 
 | _Rise Of The Tomb Raider_ | ✅ Released | 
 | _Dead Space Remake_ | ✅ Released | 
-
+| _Red Dead Redemption 2_ | ✅ Released | 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
 
