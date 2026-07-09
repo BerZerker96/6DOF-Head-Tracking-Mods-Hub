@@ -63,6 +63,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Crysis 3_ | ✅ Released | 
 | _GTAIV Complete Edition_ | ✅ Released | 
 | _Yakuza 6_ | ✅ Released | 
+| _Metal Gear Solid V_ | ✅ Released | 
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
