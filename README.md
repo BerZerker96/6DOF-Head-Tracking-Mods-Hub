@@ -25,7 +25,7 @@ using your real head movement full ( X, Y , Z axis) positional tracking and full
 and ships **ready to go**: the mod is already packed with an **ASI loader**, so there's nothing extra to install.
 
 ---
-****** If dinput8.dll fails to inject and Head-Tracking doesn't work, try renaming it to version.dll or winmm.dll (or secondary alternatives like dxgi.dll, xinput1_3.dll, d3d11.dll, or winhttp.dll).
+****** If dinput8.dll fails to inject and Head-Tracking doesn't work, try renaming it to version.dll or winmm.dll (or secondary alternatives like dxgi.dll, d3d9.dll , wininet.dll,  xinput1_3.dll, d3d11.dll, or winhttp.dll , msacm32.dll.).
 ## 🎮 Supported Games
 
 | Game | Status | 
