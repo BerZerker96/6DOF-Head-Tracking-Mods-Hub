@@ -26,13 +26,20 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 ---
 
-****If dinput8.dll fails to inject and Head-Tracking doesn't work, try renaming it to :
+⚠️ ⚠️ ⚠️
 
-version.dll  , winmm.dll  , dxgi.dll , d3d9.dll  ,d3d11.dll
+> [!TIP]
+> 🔧 If `dinput8.dll` doesn't work, rename it to one of these. Try them in order — top ones work in almost any game.
 
-or secondary alts like 
+| Try | Rename `dinput8.dll` to | Works with |
+| :-- | :-- | :-- |
+| 1️⃣ | `version.dll` · `winmm.dll` | 🌐 Almost any game |
+| 2️⃣ | `dxgi.dll` · `d3d11.dll` · `d3d12.dll` | 🎮 DX10/11/12 games |
+| 3️⃣ | `d3d9.dll` | 🕹️ Older DX9 games |
+| 4️⃣ | `xinput1_3.dll` · `wininet.dll` · `winhttp.dll` · `bink2w64.dll` | ❓ Only sometimes |
 
-d3d12.dll  ,  wininet.dll  , xinput1_3.dll , d3d11.dll  , winhttp.dll  , msacm32.dll , bink2w64.dll 
+> [!IMPORTANT]
+> 📄 **No `HeadTracking.log`?** The DLL isn't loading — move to the next name. Make sure it's next to the game's `.exe` and no other mod (ReShade, ENB) is using that same name.
 
 
 ## 🎮 Supported Games
