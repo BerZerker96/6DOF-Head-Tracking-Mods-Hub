@@ -28,7 +28,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 ⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️
 > [!TIP]
-> 🔧 If `dinput8.dll` doesn't work, rename it to one of these. Try them in order — top ones work in almost any game.
+> 🔧 If `dinput8.dll` doesn't work and tracking dosent start that means the injector failed to hook to game , rename it to one of these. Try them in order — top ones work in almost any game.
 
 | Try | Rename `dinput8.dll` to | Works with |
 | :-- | :-- | :-- |
