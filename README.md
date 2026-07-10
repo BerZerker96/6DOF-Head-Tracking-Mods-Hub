@@ -120,7 +120,7 @@ These mods receive head pose over **UDP** from [OpenTrack](https://github.com/op
 ## 🥽 Play in VR — Osiris VR Viewer
 
 Want to play these mods in a headset? **[Osiris VR Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer/tree/main)**
-has **built-in support** for these mods — it brings the head-tracked game into VR so you can look around
+has **Built-In Support** for these mods no need for Opentrack — it brings the head-tracked game into VR so you can look around
 naturally in 3D.
 
 👉 Grab it here: **[Osiris VR Viewer](https://github.com/BerZerker96/Osiris-Vr-Viewer/tree/main)**
