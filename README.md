@@ -26,7 +26,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 ---
 
-⚠️ ⚠️ ⚠️
+⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️
 
 > [!TIP]
 > 🔧 If `dinput8.dll` doesn't work, rename it to one of these. Try them in order — top ones work in almost any game.
@@ -40,6 +40,8 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 > [!IMPORTANT]
 > 📄 **No `HeadTracking.log`?** The DLL isn't loading — move to the next name. Make sure it's next to the game's `.exe` and no other mod (ReShade, ENB) is using that same name.
+> 
+⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️
 
 
 ## 🎮 Supported Games
