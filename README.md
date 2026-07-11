@@ -82,6 +82,8 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Yakuza 6_ | ✅ Released | 
 | _Metal Gear Solid V_ | ✅ Released | 
 | _Tomb Raider 2013_ | ✅ Released | 
+| _Yakuza Kiwami 2_ | ✅ Released | 
+| _Resident Evil 5_ | ✅ Released | 
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
