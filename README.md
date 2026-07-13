@@ -17,8 +17,7 @@
 </p>
 
 ---
-[<video>https://www.youtube.com/watch?v=_X3-89w9E14<video>
-](https://www.youtube.com/watch?v=_X3-89w9E14)
+https://www.youtube.com/watch?v=_X3-89w9E14
 
 
 ## ✨ What is this?
