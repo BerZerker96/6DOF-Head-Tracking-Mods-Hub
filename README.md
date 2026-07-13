@@ -84,6 +84,9 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 | _Tomb Raider 2013_ | ✅ Released | 
 | _Yakuza Kiwami 2_ | ✅ Released | 
 | _Resident Evil 5_ | ✅ Released | 
+| _Resident Evil 6_ | ✅ Released | 
+| _Quantum Break_ | ✅ Released | 
+| _GTA V Enhanced_ | ✅ Released | 
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
