@@ -17,8 +17,7 @@
 </p>
 
 ---
-https://www.youtube.com/watch?v=_X3-89w9E14
-
+[![The Witcher 3 VR Mod](https://img.youtube.com/vi/_X3-89w9E14/maxresdefault.jpg)](https://www.youtube.com/watch?v=_X3-89w9E14)
 
 ## ✨ What is this?
 
