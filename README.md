@@ -49,46 +49,46 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 | Game | Status | 
 |------|:------:|
-| _Assassins Creed Origins_ | ✅ Released |
-| _Assassins Creed Unity_ | ✅ Released | 
-| _Assassins Creed Syndicate_ | ✅ Released | 
-| _Alan Wake 2_ | ✅ Released |
-| _Alan Wake Remastered_ | ✅ Released | 
-| _Batman Arkham Knight_ | ✅ Released | 
-| _Crimson Desert_ | ✅ Released |
-| _DeusEx-Human Revolution_ | ✅ Released | 
-| _DeusEx-Mankind Divided_ | ✅ Released | 
-| _Dragon Age Inquisition_ | ✅ Released |
-| _Guardians Of The Galaxy_ | ✅ Released | 
-| _NieR Automata_ | ✅ Released | 
-| _NieR Replicant_ | ✅ Released |
-| _Ni no Kuni_ | ✅ Released | 
-| _Persona 4 Golden_ | ✅ Released | 
+| _Assassins Creed Origins_ | ✅ Released |🎯 6DOF |
+| _Assassins Creed Unity_ | ✅ Released |🎯 6DOF |
+| _Assassins Creed Syndicate_ | ✅ Released |🎯 6DOF |
+| _Alan Wake 2_ | ✅ Released |🎯 6DOF |
+| _Alan Wake Remastered_ | ✅ Released |🎯 6DOF |
+| _Batman Arkham Knight_ | ✅ Released |🎯 6DOF |
+| _Crimson Desert_ | ✅ Released |🎯 6DOF |
+| _DeusEx-Human Revolution_ | ✅ Released |🎯 6DOF |
+| _DeusEx-Mankind Divided_ | ✅ Released |🎯 6DOF |
+| _Dragon Age Inquisition_ | ✅ Released |🎯 6DOF |
+| _Guardians Of The Galaxy_ | ✅ Released |🎯 6DOF |
+| _NieR Automata_ | ✅ Released |🎯 6DOF |
+| _NieR Replicant_ | ✅ Released 🎯 6DOF |
+| _Ni no Kuni_ | ✅ Released |🎯 6DOF |
+| _Persona 4 Golden_ | ✅ Released |🎯 6DOF |
 | _Shadow Of The Tomb Raider_ | ✅ Released |
-| _The Witcher 3_ | ✅ Released | 
-| _Yakuza Like A Dragon_ | ✅ Released | 
-| _Batman Arkham City_ | ✅ Released |
-| _Batman Arkham Asylum_ | ✅ Released | 
-| _Persona 5 Royal_ | ✅ Released | 
-| _Metal Gear Rising_ | ✅ Released | 
-| _Control_ | ✅ Released | 
-| _Dragon Age Origins_ | ✅ Released | 
-| _Dragon Age 2_ | ✅ Released | 
-| _The Witcher 2_ | ✅ Released | 
-| _Batman Arkham Origins_ | ✅ Released | 
-| _Rise Of The Tomb Raider_ | ✅ Released | 
-| _Dead Space Remake_ | ✅ Released | 
-| _Red Dead Redemption 2_ | ✅ Released | 
-| _Crysis 3_ | ✅ Released | 
-| _GTAIV Complete Edition_ | ✅ Released | 
-| _Yakuza 6_ | ✅ Released | 
-| _Metal Gear Solid V_ | ✅ Released | 
-| _Tomb Raider 2013_ | ✅ Released | 
-| _Yakuza Kiwami 2_ | ✅ Released | 
-| _Resident Evil 5_ | ✅ Released | 
-| _Resident Evil 6_ | ✅ Released | 
-| _Quantum Break_ | ✅ Released | 
-| _GTA V Enhanced_ | ✅ Released | 
+| _The Witcher 3_ | ✅ Released |🎯 6DOF |
+| _Yakuza Like A Dragon_ | ✅ Released |🎯 6DOF |
+| _Batman Arkham City_ | ✅ Released |🎯 6DOF |
+| _Batman Arkham Asylum_ | ✅ Released |🎯 6DOF |
+| _Persona 5 Royal_ | ✅ Released |🎯 6DOF | 
+| _Metal Gear Rising_ | ✅ Released |🎯 6DOF | 
+| _Control_ | ✅ Released |🎯 6DOF | 
+| _Dragon Age Origins_ | ✅ Released |🎯 6DOF | 
+| _Dragon Age 2_ | ✅ Released |🎯 6DOF | 
+| _The Witcher 2_ | ✅ Released |🎯 6DOF | 
+| _Batman Arkham Origins_ | ✅ Released |🎯 6DOF | 
+| _Rise Of The Tomb Raider_ | ✅ Released |🎯 6DOF | 
+| _Dead Space Remake_ | ✅ Released |🎯 6DOF | 
+| _Red Dead Redemption 2_ | ✅ Released |🎯 6DOF | 
+| _Crysis 3_ | ✅ Released |🎯 6DOF | 
+| _GTAIV Complete Edition_ | ✅ Released |🎯 6DOF | 
+| _Yakuza 6_ | ✅ Released |🎯 6DOF | 
+| _Metal Gear Solid V_ | ✅ Released |🎯 6DOF | 
+| _Tomb Raider 2013_ | ✅ Released |🎯 6DOF | 
+| _Yakuza Kiwami 2_ | ✅ Released |🎯 6DOF | 
+| _Resident Evil 5_ | ✅ Released |🎯 6DOF | 
+| _Resident Evil 6_ | ✅ Released |🎯 6DOF | 
+| _Quantum Break_ | ✅ Released |🎯 6DOF | 
+| _GTA V Enhanced_ | ✅ Released |🎯 6DOF | 
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
