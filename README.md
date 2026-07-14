@@ -27,7 +27,7 @@ and ships **ready to go**: the mod is already packed with an **ASI loader**, so 
 
 <img width="800" height="450" alt="Pi7_GIF_CMP" src="https://github.com/user-attachments/assets/b42b73cd-b3b3-469c-bbf6-3e9d4186393c" />
 
-
+https://www.youtube.com/watch?v=_X3-89w9E14
 ⚠️ ⚠️ ⚠️⚠️ ⚠️ ⚠️
 > [!TIP]
 > 🔧 If `dinput8.dll` doesn't work and tracking dosent start that means the injector failed to hook to game , rename it to one of these. Try them in order — top ones work in almost any game.
