@@ -51,48 +51,48 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 
 ## 🎮 Supported Games
 
-| Game | Status | Download |
+| Game | Type | Download |
 |------|:------:|:------:|
-| _Assassins Creed Origins_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/1) |
-| _Assassins Creed Unity_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACUnity) |
-| _Assassins Creed Syndicate_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/s1) |
-| _Alan Wake 2_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWake2) |
-| _Alan Wake Remastered_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
-| _Batman Arkham Knight_ | ✅ Released - 🎯 6DOF / 🥽 Stereo3D | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
-| _Crimson Desert_ | ✅ Released - 🎯 3DOF / WIP | [⬇️ Download](../../releases/tag/CrimsonDesert) |
-| _DeusEx-Human Revolution_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
-| _DeusEx-Mankind Divided_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-MankindDivided) |
-| _Dragon Age Inquisition_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
-| _Guardians Of The Galaxy_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/GuardiansOfTheGalaxy) |
-| _NieR Automata_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRAutomata) |
-| _NieR Replicant_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRReplicant) |
-| _Ni no Kuni_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/NinoKuni) |
-| _Persona 4 Golden_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona4Golden) |
-| _Shadow Of The Tomb Raider_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/ShadowOfTheTombRaider) |
-| _The Witcher 3_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/TheWitcher3) |
-| _Yakuza Like A Dragon_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaLikeADragon) |
-| _Batman Arkham City_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamCity) |
-| _Batman Arkham Asylum_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanAA) |
-| _Persona 5 Royal_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona5Royal) |
-| _Metal Gear Rising_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/MetalGearRising) |
-| _Control_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/Control) |
-| _Dragon Age Origins_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeOrigins) |
-| _Dragon Age 2_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAge2) |
-| _The Witcher 2_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/TheWitcher2) |
-| _Batman Arkham Origins_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamOrigins) |
-| _Rise Of The Tomb Raider_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/RiseOfTheTombRaider) |
-| _Dead Space Remake_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeadSpaceRemake) |
-| _Red Dead Redemption 2_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/RDR2) |
-| _Crysis 3_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/Crysis3) |
-| _GTAIV Complete Edition_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAIVComplete) |
-| _Yakuza 6_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza6) |
-| _Metal Gear Solid V_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/MGSV) |
-| _Tomb Raider 2013_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/TombRaider2013) |
-| _Yakuza Kiwami 2_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami2) |
-| _Resident Evil 5_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE5) |
-| _Resident Evil 6_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE6) |
-| _Quantum Break_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/QuantumBreak) |
-| _GTA V Enhanced_ | ✅ Released - 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAV-Enhanced) |
+| _Assassins Creed Origins_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/1) |
+| _Assassins Creed Unity_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACUnity) |
+| _Assassins Creed Syndicate_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/s1) |
+| _Alan Wake 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWake2) |
+| _Alan Wake Remastered_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
+| _Batman Arkham Knight_ | 🎯 6DOF / 🥽 Stereo3D | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
+| _Crimson Desert_ | 🎯 3DOF / WIP | [⬇️ Download](../../releases/tag/CrimsonDesert) |
+| _DeusEx-Human Revolution_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
+| _DeusEx-Mankind Divided_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-MankindDivided) |
+| _Dragon Age Inquisition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
+| _Guardians Of The Galaxy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GuardiansOfTheGalaxy) |
+| _NieR Automata_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRAutomata) |
+| _NieR Replicant_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRReplicant) |
+| _Ni no Kuni_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NinoKuni) |
+| _Persona 4 Golden_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona4Golden) |
+| _Shadow Of The Tomb Raider_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ShadowOfTheTombRaider) |
+| _The Witcher 3_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TheWitcher3) |
+| _Yakuza Like A Dragon_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaLikeADragon) |
+| _Batman Arkham City_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamCity) |
+| _Batman Arkham Asylum_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanAA) |
+| _Persona 5 Royal_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona5Royal) |
+| _Metal Gear Rising_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/MetalGearRising) |
+| _Control_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Control) |
+| _Dragon Age Origins_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeOrigins) |
+| _Dragon Age 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAge2) |
+| _The Witcher 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TheWitcher2) |
+| _Batman Arkham Origins_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamOrigins) |
+| _Rise Of The Tomb Raider_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RiseOfTheTombRaider) |
+| _Dead Space Remake_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeadSpaceRemake) |
+| _Red Dead Redemption 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RDR2) |
+| _Crysis 3_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Crysis3) |
+| _GTAIV Complete Edition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAIVComplete) |
+| _Yakuza 6_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza6) |
+| _Metal Gear Solid V_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/MGSV) |
+| _Tomb Raider 2013_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TombRaider2013) |
+| _Yakuza Kiwami 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami2) |
+| _Resident Evil 5_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE5) |
+| _Resident Evil 6_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE6) |
+| _Quantum Break_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/QuantumBreak) |
+| _GTA V Enhanced_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAV-Enhanced) |
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
