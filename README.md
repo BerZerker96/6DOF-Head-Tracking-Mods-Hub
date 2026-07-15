@@ -19,8 +19,8 @@
 ---
 ## ✨ What is this?
 
-A hub where I release my **6DOF head-tracking mods** — they let you lean, peek, and look around in-game
-using your real head movement full ( X, Y , Z axis) positional tracking and full (Yaw , Pitch , Roll ) rotational tracking. Each mod is built on the head-tracking **framework by [Loop](https://github.com/itsloopyo?tab=repositories)**,
+A hub where I release my **6DOF head-tracking mods and the NEW true Stereo3D per game mods** — they let you lean, peek, and look around in-game
+using your real head movement full ( X, Y , Z axis) positional tracking and full (Yaw , Pitch , Roll ) rotational tracking. Each mod is built on the head-tracking **framework by [Loop](https://github.com/itsloopyo?tab=repositories)**, and provides Stereo3D built into one mod based on x-axis offsets ,
 and ships **ready to go**: the mod is already packed with an **ASI loader**, so there's nothing extra to install.
 
 ---
