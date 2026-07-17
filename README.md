@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Quantum Break_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/QuantumBreak) |
 | _GTA V Enhanced_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAV-Enhanced) |
 | _Yakuza 0_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza0) |
-| _YakuzaKiwami_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami) |
+| _Yakuza Kiwami_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami) |
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
 
