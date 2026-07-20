@@ -96,6 +96,9 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Yakuza 0_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza0) |
 | _Yakuza Kiwami_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami) |
 | _Trails in the Sky 1_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TrailsFC) |
+| _Assassins Creed 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AC2) |
+| _Assassins Creed Brotherhood_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACB) |
+| _Assassins Creed Revelations_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACR) |
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
 
