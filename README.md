@@ -53,9 +53,9 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 
 | Game | Type | Download |
 |------|:------:|:------:|
-| _Assassins Creed Origins_ | 🥽 Stereo3D / 🎯 6DOF / | [⬇️ Download](../../releases/tag/1) |
+| _Assassins Creed Origins_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/1) |
 | _Assassins Creed Unity_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/ACUnity) |
-| _Assassins Creed Syndicate_ | 🥽 Stereo3D / 🎯 6DOF / | [⬇️ Download](../../releases/tag/s1) |
+| _Assassins Creed Syndicate_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/s1) |
 | _Alan Wake 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWake2) |
 | _Alan Wake Remastered_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
 | _Batman Arkham Knight_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
