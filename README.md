@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Dragon Age Origins_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeOrigins) |
 | _Dragon Age 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAge2) |
 | _The Witcher 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TheWitcher2) |
-| _Batman Arkham Origins_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamOrigins) |
+| _Batman Arkham Origins_ | 🥽 Stereo3D / 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamOrigins) |
 | _Rise Of The Tomb Raider_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RiseOfTheTombRaider) |
 | _Dead Space Remake_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeadSpaceRemake) |
 | _Red Dead Redemption 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RDR2) |
