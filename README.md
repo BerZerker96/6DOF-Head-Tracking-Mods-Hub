@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Assassins Creed Brotherhood_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACB) |
 | _Assassins Creed Revelations_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACR) |
 | _Granblue Fantasy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GranblueFantasy) |
-| _Ratchet and Clank rift apart_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GranblueFantasy) |
+| _Ratchet and Clank rift apart_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RiftApart) |
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
 
