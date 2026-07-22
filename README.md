@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">🎯 6DOF Head-Tracking Mods</h1>
+<h1 align="center">🥽 Stereo3D \ 🎯 6DOF Head-Tracking Mods</h1>
 
 <p align="center">
   <i>Bring real head-tracking to your favourite single-player games.</i>
