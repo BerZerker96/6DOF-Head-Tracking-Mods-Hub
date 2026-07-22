@@ -53,12 +53,12 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 
 | Game | Type | Download |
 |------|:------:|:------:|
-| _Assassins Creed Origins_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/1) |
-| _Assassins Creed Unity_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACUnity) |
-| _Assassins Creed Syndicate_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/s1) |
+| _Assassins Creed Origins_ | 🥽 Stereo3D / 🎯 6DOF / | [⬇️ Download](../../releases/tag/1) |
+| _Assassins Creed Unity_ | 🥽 Stereo3D / 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACUnity) |
+| _Assassins Creed Syndicate_ | 🥽 Stereo3D / 🎯 6DOF / | [⬇️ Download](../../releases/tag/s1) |
 | _Alan Wake 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWake2) |
 | _Alan Wake Remastered_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
-| _Batman Arkham Knight_ | 🎯 6DOF / 🥽 Stereo3D | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
+| _Batman Arkham Knight_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
 | _Crimson Desert_ | 🎯 3DOF / WIP | [⬇️ Download](../../releases/tag/CrimsonDesert) |
 | _DeusEx-Human Revolution_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
 | _DeusEx-Mankind Divided_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-MankindDivided) |
@@ -100,6 +100,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Assassins Creed Brotherhood_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACB) |
 | _Assassins Creed Revelations_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ACR) |
 | _Granblue Fantasy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GranblueFantasy) |
+| _Ratchet and Clank rift apart_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GranblueFantasy) |
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
 
