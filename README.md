@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _DeusEx-Mankind Divided_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-MankindDivided) |
 | _Dragon Age Inquisition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
 | _Guardians Of The Galaxy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GuardiansOfTheGalaxy) |
-| _NieR Automata_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRAutomata) |
+| _NieR Automata_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/NieRAutomata) |
 | _NieR Replicant_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRReplicant) |
 | _Ni no Kuni_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NinoKuni) |
 | _Persona 4 Golden_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona4Golden) |
