@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Batman Arkham Origins_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/BatmanArkhamOrigins) |
 | _Rise Of The Tomb Raider_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RiseOfTheTombRaider) |
 | _Dead Space Remake_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeadSpaceRemake) |
-| _Red Dead Redemption 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RDR2) |
+| _Red Dead Redemption 2_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/RDR2) |
 | _Crysis 3_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Crysis3) |
 | _GTAIV Complete Edition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAIVComplete) |
 | _Yakuza 6_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza6) |
