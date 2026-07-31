@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Alan Wake Remastered_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
 | _Batman Arkham Knight_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
 | _Crimson Desert_ | 🎯 3DOF / WIP | [⬇️ Download](../../releases/tag/CrimsonDesert) |
-| _DeusEx-Human Revolution_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
+| _DeusEx-Human Revolution_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
 | _DeusEx-Mankind Divided_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-MankindDivided) |
 | _Dragon Age Inquisition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
 | _Guardians Of The Galaxy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GuardiansOfTheGalaxy) |
