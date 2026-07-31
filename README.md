@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Crimson Desert_ | 🎯 3DOF / WIP | [⬇️ Download](../../releases/tag/CrimsonDesert) |
 | _DeusEx-Human Revolution_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
 | _DeusEx-Mankind Divided_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DeusEx-MankindDivided) |
-| _Dragon Age Inquisition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
+| _Dragon Age Inquisition_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
 | _Guardians Of The Galaxy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GuardiansOfTheGalaxy) |
 | _NieR Automata_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/NieRAutomata) |
 | _NieR Replicant_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRReplicant) |
