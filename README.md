@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 
 ## 🎮 Supported Games
 
-| Game | Type | Download |
+| Game | Type | Download | 
 |------|:------:|:------:|
 | _Assassins Creed Origins_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/1) |
 | _Assassins Creed Unity_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/ACUnity) |
@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Assassins Creed 2_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/AC2) |
 | _Assassins Creed Brotherhood_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/ACB) |
 | _Assassins Creed Revelations_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/ACR) |
-| _Granblue Fantasy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GranblueFantasy) |
+| _Granblue Fantasy_ | [⬇️ 🥽 Stereo3D / 🎯 6DOF]([../../releases/tag/GranblueFantasy](https://github.com/Jason-Y84/GBFR-Stereoscopic-3Dmod/releases))  | [⬇️ Download](../../releases/tag/GranblueFantasy) |
 | _Ratchet and Clank rift apart_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RiftApart) |
 | _Metaphor Refantazio_ | 🎯 6DOF / WIP | [⬇️ Download](../../releases/tag/metaphorrefantazio) |
 | _Judgment_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Judgment) |
