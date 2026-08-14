@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Crysis 3_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Crysis3) |
 | _GTAIV Complete Edition_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAIVComplete) |
 | _Yakuza 6_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza6) |
-| _Metal Gear Solid V_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/MGSV) |
+| _Metal Gear Solid V_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/MGSV) |
 | _Tomb Raider 2013_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TombRaider2013) |
 | _Yakuza Kiwami 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami2) |
 | _Resident Evil 5_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE5) |
