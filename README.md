@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Persona 4 Golden_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona4Golden) |
 | _Shadow Of The Tomb Raider_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ShadowOfTheTombRaider) |
 | _The Witcher 3_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/TheWitcher3) |
-| _Yakuza Like A Dragon_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaLikeADragon) |
+| _Yakuza Like A Dragon_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/YakuzaLikeADragon) |
 | _Batman Arkham City_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanArkhamCity) |
 | _Batman Arkham Asylum_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/BatmanAA) |
 | _Persona 5 Royal_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona5Royal) |
