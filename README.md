@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Assassins Creed Unity_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/ACUnity) |
 | _Assassins Creed Syndicate_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/s1) |
 | _Alan Wake 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWake2) |
-| _Alan Wake Remastered_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
+| _Alan Wake Remastered_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/AlanWakeRemastered) |
 | _Batman Arkham Knight_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/BatmanArkhamKnight) |
 | _Crimson Desert_ | 🎯 3DOF / WIP | [⬇️ Download](../../releases/tag/CrimsonDesert) |
 | _DeusEx-Human Revolution_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/DeusEx-HumanRevolution) |
