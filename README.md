@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Dragon Age Inquisition_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/DragonAgeInquisition) |
 | _Guardians Of The Galaxy_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GuardiansOfTheGalaxy) |
 | _NieR Automata_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/NieRAutomata) |
-| _NieR Replicant_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NieRReplicant) |
+| _NieR Replicant_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/NieRReplicant) |
 | _Ni no Kuni_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/NinoKuni) |
 | _Persona 4 Golden_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Persona4Golden) |
 | _Shadow Of The Tomb Raider_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/ShadowOfTheTombRaider) |
