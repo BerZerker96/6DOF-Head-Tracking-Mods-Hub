@@ -91,7 +91,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Yakuza Kiwami 2_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami2) |
 | _Resident Evil 5_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE5) |
 | _Resident Evil 6_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RE6) |
-| _Quantum Break_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/QuantumBreak) |
+| _Quantum Break_ | 🥽 Stereo3D / 🎯 6DOF | [⬇️ Download](../../releases/tag/QuantumBreak) |
 | _GTA V Enhanced_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/GTAV-Enhanced) |
 | _Yakuza 0_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Yakuza0) |
 | _Yakuza Kiwami_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/YakuzaKiwami) |
