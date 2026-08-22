@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Granblue Fantasy_ | [⬇️ 🥽 Stereo3D / 🎯 6DOF](https://github.com/Jason-Y84/GBFR-Stereoscopic-3Dmod/releases)  | [⬇️ Download](../../releases/tag/GranblueFantasy) |
 | _Ratchet and Clank rift apart_ | [⬇️ 🥽 Stereo3D / 🎯 6DOF](https://github.com/Jason-Y84/AFR-Stereoscopic-3Dmod/releases/tag/Ratchet%26Clank_Rift_Apart) | [⬇️ Download](../../releases/tag/RiftApart) |
 | _Metaphor Refantazio_ | 🎯 6DOF / WIP | [⬇️ Download](../../releases/tag/metaphorrefantazio) |
-| _Judgment_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Judgment) |
+| _Judgment_ |  [⬇️ 🥽 Stereo3D / 🎯 6DOF](https://github.com/MikeNX95/Judgment-Stereoscopic-3DMod/releases) | [⬇️ Download](../../releases/tag/Judgment) |
 
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
