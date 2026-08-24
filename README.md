@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=_X3-89w9E14
 | _Bloodborne_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Bloodborne) |
 | _Red Dead Redemption_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/RDR) |
 | _Assassin's Creed Black Flag Resynced_ | 🥽 Stereo3D / 🎯 6DOF  | [⬇️ Download](../../releases/tag/ACBR) |
-
+| _Bully_ | 🎯 6DOF / | [⬇️ Download](../../releases/tag/Bully) |
 
 want more check **Loop's Hub for more mods  by [Loop's Mods](https://github.com/itsloopyo/itsloopyo)**,
 
